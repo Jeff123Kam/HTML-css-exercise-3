@@ -1,0 +1,99 @@
+body {
+  font-family: "Source Code Pro", monospace;
+  font-weight: 400;
+}
+
+h1 {
+  position: relative;
+  left: 10%;
+}
+
+h2 {
+  position: relative;
+  left: 1%;
+}
+
+section {
+  border: 1px solid black;
+  width: 80%;
+  margin: 0 auto;
+  margin-bottom: 1%;
+}
+
+/* This is color section style  */
+
+.fourColor {
+  position: relative;
+  left: 1%;
+}
+
+.color {
+  display: inline-block;
+  width: 32%;
+  text-align: center;
+  position: relative;
+  line-height: 250%;
+  padding-top: 1%;
+  padding-bottom: 1%;
+}
+
+.one {
+  background-color: #2d5dcc;
+  color: white;
+}
+
+.two {
+  background-color: #d957d9;
+}
+
+.three {
+  background-color: #4fe0b0;
+}
+
+.four {
+  background-color: #efd9ca;
+}
+
+/* This is color font style  */
+
+.FontType {
+  display: inline-block;
+  width: 45%;
+}
+
+.FontWords {
+  line-height: 200%;
+}
+
+.second {
+  font-family: "Roboto", sans-serif;
+}
+
+.third {
+  font-family: "Poppins", sans-serif;
+}
+
+.TextBoldOne {
+  font-family: "Source Code Pro", monospace;
+  font-weight: 700;
+}
+
+.TextBoldTwo {
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+}
+
+.TextBoldThree {
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+}
+
+.H1-head {
+  font-weight: 700;
+  font-size: 26px;
+}
+
+.H2-head {
+  font-weight: 600;
+  font-size: 18px;
+}
